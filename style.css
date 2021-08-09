@@ -1,0 +1,133 @@
+.main{
+    width: 70%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+body{
+margin: 0px;
+padding: 0px;
+font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+
+}
+.container{
+    background-color: rgb(30, 130, 177);
+    color: white;
+}
+
+.logo img{
+    width: 50%;
+    margin-top: 4% auto;
+   
+}
+.mail{
+    color: white;
+    text-decoration: none;
+   
+}
+#col2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#col2 button a{
+    text-decoration: none;
+    font-weight: bolder;
+    color:rgb(255, 255, 255) ;
+}
+#col2 button{
+  background-color:   rgb(30, 130, 177);
+  border: none;
+  margin-left: 2%;
+}
+#col2 button:hover {
+    background-color:   rgb(29, 32, 34)
+}
+.row{
+    margin-top: 2% !important;
+}
+.col {
+    margin-bottom: 2%;
+}
+.card-text{
+    color: rgb(255, 249, 249);
+}
+.card{
+    background-color:  rgb(30, 130, 177) !important;
+    border: 2px solid white !important;
+    margin: 1%;
+}
+/* #foo{
+    margin: 2%;
+} */
+.container-fluid{
+    display: flex;
+    float: left;
+    flex-wrap: wrap;
+}
+.detail{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid rgb(255, 255, 255);
+    margin-top: 2%;
+    
+    text-align: center;
+    padding: 1%;
+   
+   
+
+}
+#kl{
+    background-color: rgb(0, 43, 63) ;
+    border: none;
+    box-shadow: 2px 2px black;
+}
+#kl a:hover{
+    font-size: larger;
+}
+.benefit{
+    text-align: center;
+    margin-top: 2%;
+    background-color: white;
+    color: black;
+}
+.benefit h1{
+    color:rgb(30, 130, 177)  ;
+}
+#new{
+    background-color: white;
+    color:rgb(13, 13, 14) ;
+    text-align: center;
+    border: 2px solid rgb(30, 130, 177) ;
+}
+#new h3{
+    color:rgb(30, 130, 177) ;
+    font-weight: bolder;
+}
+
+#moo{
+    border: 1px solid white;
+    border-radius: 10px;
+}
+#moo:hover{
+    background-color: white;
+    color:rgb(30, 130, 177) ;
+}
+.btn1{
+    background-color:rgb(255, 255, 255)  ;
+    border: none;
+    border-radius: 7px;
+}
+.no-gutters{
+    background-color: rgb(37, 36, 36);
+}
+#ul li a{
+color: white;
+}
+#ul li a:hover{
+    color: red;
+}
+#newd{
+    border: 2px solid white;
+}
